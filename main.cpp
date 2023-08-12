@@ -4,7 +4,6 @@
 #include "BFS.h"
 #include "EightPuzzelSearchableT.h"
 
-
 using namespace std;
 
 
